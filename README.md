@@ -24,7 +24,7 @@
 
 ## 下载与安装
 
-**1.2.7 正式版**：[下载轻启 HAP](https://github.com/thx853068675-dev/quietstart/releases/download/v1.2.7/quietstart-1.2.7.hap) · [更新说明](https://github.com/thx853068675-dev/quietstart/releases/tag/v1.2.7)
+**1.2.8 正式版**：[下载轻启 HAP](https://github.com/thx853068675-dev/quietstart/releases/download/v1.2.8/quietstart-1.2.8.hap) · [更新说明](https://github.com/thx853068675-dev/quietstart/releases/tag/v1.2.8)
 
 **1.2.8-beta 测试版**：[下载轻启 HAP](https://github.com/thx853068675-dev/quietstart/releases/download/v1.2.8-beta-128002/quietstart-1.2.8-beta-128002.hap) · [更新说明](https://github.com/thx853068675-dev/quietstart/releases/tag/v1.2.8-beta-128002)
 
